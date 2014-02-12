@@ -5,6 +5,8 @@ GameMaker Lua Chips
  - This is a chips challenge clone, written primarily in Lua, which was implemented into GameMaker.
  - I use a heavily modified version of [GM Lua] (https://code.google.com/p/gmlua/), looking at what I now know about Lua, the implementation is pretty dodgy, and doesn't really interface with GameMaker very well at all.
 
+![alt tag](http://i.imgur.com/T7kTSbS.jpg)
+
 ###What version of GameMaker?###
  - This was written in Version 8, since it uses GM API, it will ONLY compile in Version 8.
 
