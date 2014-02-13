@@ -11,7 +11,7 @@ GameMaker Lua Chips
  - This was written in Version 8, since it uses GM API, it will ONLY compile in Version 8.
 
 ###How close to the original is this?###
- - It's a pretty close clone, however I am fairly sure there are some missing features that I never got around to implementing, I don't think I ever implemented ice.
+ - It's a pretty close clone, however I am fairly sure there are some missing features that I never got around to implementing, I don't think I ever thin walls for example.
 
 ###Fun Fact###
  - It only has one room, and one line of GML, that line of GML loads GM Lua.
